@@ -32,6 +32,7 @@ a:visited{
     transition: all 0.5s;
 }
 a:hover {
+    color:#313131;
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
@@ -111,11 +112,11 @@ nav li{
     border-right: 1px solid orange;
 } */
 
-nav li:hover{
-    background-color: black;
+/* nav li:hover{
+    background-color: white;
     transition: background-color 0.5s ease-out;
     color: #fff;
-}
+} */
 
 /*****ARTICLE*****/
 section{
